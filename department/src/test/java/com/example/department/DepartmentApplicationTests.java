@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DepartmentApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void testContextLoads() {
+		// Test if the application context loads successfully
 	}
 
 }
